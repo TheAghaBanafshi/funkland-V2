@@ -1,5 +1,5 @@
 """
-Funk Land - ساخت خودکار songs.json
+FunkLand - ساخت خودکار songs.json
 همه آهنگ‌ها کاور پیش‌فرض FunkLand-lightlogo.png می‌گیرن
 """
 import os
