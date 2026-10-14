@@ -1,6 +1,6 @@
 """
 Funk Land - ساخت خودکار songs.json
-همه آهنگ‌ها کاور پیش‌فرض FUNKLAND-lightlogo.pmg.png می‌گیرن
+همه آهنگ‌ها کاور پیش‌فرض FunkLand-lightlogo.png می‌گیرن
 """
 import os
 import json
@@ -11,7 +11,7 @@ UPLOADS_DIR = "uploads"
 OUTPUT_FILE = "songs.json"
 
 # ⚠️ اسم دقیق کاور پیش‌فرض
-DEFAULT_COVER = "FUNKLAND-lightlogo.pmg.png"
+DEFAULT_COVER = "FunkLand-lightlogo.png"
 
 AUDIO_EXT = [".mp3", ".m4a", ".ogg", ".wav", ".webm", ".flac", ".aac", ".opus"]
 
